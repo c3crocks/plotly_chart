@@ -2,7 +2,7 @@
 
 ## Results
 Image from the localhost index.html:
-![](https://github.com/c3crocks/UFOs/blob/main/static/images/filters.PNG)
+![](https://github.com/c3crocks/plotly_chart/blob/main/static/images/1_File.PNG)
 
 ## Summary:
 Modifications made to the webpage using css.styling
