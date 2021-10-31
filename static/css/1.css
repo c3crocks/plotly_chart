@@ -1,0 +1,20 @@
+body {
+
+  background-color: rgb(150, 217, 240);
+  color: #ee2c1a;
+}
+.jumbotron {
+  background-image: url("../images/bacteria.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+}
+.jumbotron {
+  font-family: "Calibri";
+}
+body {
+  font-family: "Calibri";
+  background-color: rgb(108, 201, 231);
+}
+h3 {
+  font-family: "Calibri";
+}
